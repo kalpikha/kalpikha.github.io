@@ -1,2 +1,1 @@
 # kalpikha.github.io
-kalpikha
